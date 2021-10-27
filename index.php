@@ -3,7 +3,7 @@
 <body>
 
 <?php
-echo "My 1st test website!";
+echo "Thanks Jesus!";
 ?> 
 
 </body>
